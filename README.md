@@ -1,6 +1,6 @@
 # Welcome to stjepanoviccc's GitHub Profile! 👋
 
-Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
+## Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
 
 ## Technologies I love the most:      
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -17,9 +17,10 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
-Interpersonal Skills: Communication, Problem Solving, Time Management.
+## Interpersonal Skills:  
+Communication, Problem Solving, Time Management.
 
-Get in Touch  
+## Get in Touch  
 Email: stjepanoviccc2021@gmail.com  
 LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic
   
