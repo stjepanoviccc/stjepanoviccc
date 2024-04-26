@@ -21,5 +21,6 @@ Interpersonal Skills: Communication, Problem Solving, Time Management.
 
 Get in Touch  
 Email: stjepanoviccc2021@gmail.com  
-LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic  
+LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic
+  
 I'm always open to collaborations and new opportunities. Feel free to reach out!
