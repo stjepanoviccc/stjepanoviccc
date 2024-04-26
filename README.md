@@ -1,8 +1,8 @@
-Welcome to stjepanoviccc's GitHub Profile! 👋
+# Welcome to stjepanoviccc's GitHub Profile! 👋
 
 Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
 
-Technologies I love the most:      
+## Technologies I love the most:      
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
