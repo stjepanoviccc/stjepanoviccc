@@ -2,7 +2,7 @@ Welcome to stjepanoviccc's GitHub Profile! 👋
 
 Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
 
-Technologies:  
+Technologies I have knowledge to work with:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
@@ -15,11 +15,11 @@ Technologies:
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 Interpersonal Skills: Communication, Problem Solving, Time Management.
 
 Get in Touch  
-Email: stjepanoviccc2021@gmail.com
-LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic
+Email: stjepanoviccc2021@gmail.com  
+LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic  
 I'm always open to collaborations and new opportunities. Feel free to reach out!
