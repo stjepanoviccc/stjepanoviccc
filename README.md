@@ -1,10 +1,8 @@
 Welcome to stjepanoviccc's GitHub Profile! 👋
 
-About Me
 Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
 
-Skills
-Technologies: 
+Technologies:  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
@@ -21,7 +19,7 @@ Technologies:
 
 Interpersonal Skills: Communication, Problem Solving, Time Management.
 
-Get in Touch
+Get in Touch  
 Email: stjepanoviccc2021@gmail.com
 LinkedIn: https://www.linkedin.com/in/andrej-stjepanovic
 I'm always open to collaborations and new opportunities. Feel free to reach out!
