@@ -1,6 +1,7 @@
 # Welcome to stjepanoviccc's GitHub Profile! 👋
 
-## Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
+## About Me:   
+Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Web Development.
 
 ## Technologies I love the most:      
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
