@@ -15,6 +15,8 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-yellow?logo=mockito&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit-brightgreen?logo=junit&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
