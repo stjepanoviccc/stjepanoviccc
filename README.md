@@ -17,7 +17,7 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
 
 ## Interpersonal Skills:  
-Communication, Problem Solving, Time Management.
+Communication, Problem Solving, Time Management, Speed
 
 ## Get in Touch  
 Email: stjepanoviccc2021@gmail.com  
