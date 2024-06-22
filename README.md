@@ -21,6 +21,9 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-4EA94B?logo=liquibase&logoColor=white)
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -31,6 +34,10 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ### Infrastructure Management & Deployment:
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?logo=prometheus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+### API Documentation:
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=black)
 
 ## Interpersonal Skills:  
 Communication, Problem Solving, Time Management, Rapid Development
