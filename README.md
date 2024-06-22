@@ -1,7 +1,7 @@
 # Welcome to stjepanoviccc's GitHub Profile! 👋
 
 ## About Me:   
-Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Fullstack/Backend Development, particularly with React/Angular + Spring.
+Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest in Fullstack/Backend Development and my main stack is **React/Angular + TailwindCSS** with **SpringBoot** and **PostgreSQL**.
 
 ## Technologies I Use:
 
