@@ -22,14 +22,13 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-4EA94B?logo=liquibase&logoColor=white)
 
-### Databases:
+### Databases & Versioning:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-pink?logo=consul&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-4EA94B?logo=liquibase&logoColor=white)
 
 ### Infrastructure Management & Deployment:
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?logo=prometheus&logoColor=white)
