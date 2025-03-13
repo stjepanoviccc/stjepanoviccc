@@ -17,7 +17,7 @@ Hi there! I'm Andrej Stjepanović, a passionate developer with a keen interest i
 ### Backend:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
