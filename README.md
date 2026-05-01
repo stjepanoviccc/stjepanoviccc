@@ -1,8 +1,8 @@
 # Welcome to stjepanoviccc's GitHub Profile! 👋
 
 ## About Me:   
-Hey, I'm Andrej — a developer who loves working with **TypeScript** across the stack.
-I build with **React/Next.js** + **TailwindCSS** on the frontend and **NestJS/Spring Boot + PostgreSQL** on the backend.
+Hey, I'm Andrej, a developer who loves working with **JavaScript/Java** across the stack.
+I build with **React/Next.js** + **TailwindCSS** on the frontend and **NestJS/Spring Boot + PostgreSQL/MongoDB** on the backend.
 I’m also diving deeper into **DevOps**, from CI/CD to server automation and **Docker** workflows.
 
 ## Technologies I Use:
